@@ -80,7 +80,7 @@ const Hero = () => {
           </Button>
         </Link>
         <Link
-          to="https://res.cloudinary.com/dzcqfg3ur/image/upload/v1719141800/PORTFOLIO%20RESUME/ujqgnuuwdsadonv9ncpw.jpg"
+          to="https://res.cloudinary.com/dzcqfg3ur/image/upload/v1732160685/WhatsApp_Image_2024-11-21_at_09.10.32_40de532e_ge8ynd.jpg"
           target="_blank"
         >
           <Button className="rounded-[30px] flex items-center gap-2 flex-row">
