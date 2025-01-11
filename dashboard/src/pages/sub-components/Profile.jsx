@@ -31,11 +31,11 @@ const Profile = () => {
                 <div className="grid gap-2 w-full sm:w-72">
                   <Label>Resume</Label>
                   <Link
-                    to={user && user.resume && user.resume.url}
+                    // to={user && user.resume && user.resume.url}
                     target="_blank"
                   >
                     <img
-                      src={user && user.resume && user.resume.url}
+                      // src={user && user.resume && user.resume.url}
                       alt="avatar"
                       className="w-full  h-auto sm:w-72 sm:h-72 rounded-2xl"
                     />
